@@ -1,0 +1,29 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "Back-end ",
+  "main": "index.js",
+  "scripts": {
+    "test": "error",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishwarya-singh04/ExpressApp.git"
+  },
+  "keywords": [
+    "Express",
+    "and",
+    "Node"
+  ],
+  "author": "aishwarya singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishwarya-singh04/ExpressApp/issues"
+  },
+  "homepage": "https://github.com/aishwarya-singh04/ExpressApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
